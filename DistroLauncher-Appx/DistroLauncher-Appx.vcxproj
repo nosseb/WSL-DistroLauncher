@@ -11,7 +11,7 @@
     <WindowsTargetPlatformMinVersion>10.0.16215.0</WindowsTargetPlatformMinVersion>
     <ApplicationTypeRevision>10.0</ApplicationTypeRevision>
     <TargetName>mydistro</TargetName>
-    <ProjectName>DistroLauncher-Appx</ProjectName>
+    <ProjectName>JustEscape</ProjectName>
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
